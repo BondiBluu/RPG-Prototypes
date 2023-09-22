@@ -9,16 +9,22 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4b1d73636c0c0164882b4d01323449e8, type: 3}
-  m_Name: Simple HP Potion
+  m_Script: {fileID: 11500000, guid: 0a70ace0907bfa84ca4ea40cbd7d7bbf, type: 3}
+  m_Name: Goddess Droplet
   m_EditorClassIdentifier: 
   prefab: {fileID: 0}
-  type: 0
-  itemName: a simple health potion
-  desc: A simple health potion. Near anyone could make it.  Restores a small amount
-    of HP. All the rage with adventurous children.
+  type: 4
+  itemName: goddess droplet
+  desc: 
   trueDesc: 
   price: 0
   ableToSell: 1
-  hpRestoreAmount: 20
-  mpRestoreAmount: 0
+  hpBoostPerm: 0
+  mpBoostPerm: 0
+  atkBoostPerm: 0
+  magBoostPerm: 0
+  defBoostPerm: 0
+  resBoostPerm: 0
+  skillBoostPerm: 0
+  effBoostPerm: 0
+  speedBoostPerm: 0

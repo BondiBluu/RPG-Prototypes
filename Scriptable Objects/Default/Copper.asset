@@ -15,8 +15,6 @@ MonoBehaviour:
   prefab: {fileID: 0}
   type: 3
   itemName: copper
-  namePlural: copper
-  invenItemName: Copper
   desc: 
   trueDesc: 
   price: 0
